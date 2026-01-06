@@ -1,4 +1,7 @@
 # ignore files and direcotries
 .venv/
-data/
 .env
+data/
+report/*
+!report/*.pdf
+# !report/*.tex
